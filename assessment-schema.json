@@ -1,0 +1,31 @@
+{
+    "assessment_result": {
+        "overall_band": 7.0,
+        "components": {
+            "task_response": {
+                "score": 7.0,
+                "feedback": "Penjelasan detail mengenai kekuatan dan kekurangan dalam menjawab soal."
+            },
+            "coherence_and_cohesion": {
+                "score": 6.5,
+                "feedback": "Analisis alur paragraf dan penggunaan kata penghubung."
+            },
+            "lexical_resource": {
+                "score": 7.5,
+                "feedback": "Analisis variasi kosakata dan ketepatan diksi."
+            },
+            "grammatical_range_and_accuracy": {
+                "score": 7.0,
+                "feedback": "Analisis struktur kalimat dan frekuensi kesalahan tata bahasa."
+            }
+        },
+        "suggested_revisions": [
+            {
+                "original": "teks asli yang salah",
+                "correction": "teks yang sudah diperbaiki",
+                "explanation": "Alasan kenapa ini lebih baik menurut standar IELTS."
+            }
+        ],
+        "estimated_cefr_level": "C1"
+    }
+}
