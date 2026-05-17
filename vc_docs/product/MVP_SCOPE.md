@@ -87,7 +87,7 @@ The MVP intentionally focuses on only two productive IELTS skills.
 ### Writing Simulation
 - Task 2 essay interface
 - IELTS-style prompt presentation
-- 40-minute timer
+- 40-minute timer                          # can be changed if needed
 - autosave draft behavior
 - submission workflow
 
